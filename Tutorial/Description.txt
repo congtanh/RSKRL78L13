@@ -14,6 +14,6 @@ https://www.renesas.com/us/en/document/man/cubesuite-renesas-starter-kit-rl78l13
 *             4. A heart symbol and the LEDs will flash at a rate varied by the potentiometer RV1.
 *
 *             5. The string 'L13' will slowly replace the word 'RL78' on
-*                the alpha-numeric LCD segments.
+*                the alpha-numeric LCD segments
 *
 
