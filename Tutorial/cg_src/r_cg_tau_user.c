@@ -181,7 +181,7 @@ void Toggle_Symbol (void)
     if (FALSE == heart_symbol_toggle)
     {
         /* Turn off all segments */
-        Symbol_Map(LCD_HEART_OFF);
+        Symbol_Map(LCD_HEART_ON);
 
         /* Set the variable to TRUE */
         heart_symbol_toggle = TRUE;
@@ -189,7 +189,7 @@ void Toggle_Symbol (void)
     else
     {
         /* Turn on the heart segments */
-        Symbol_Map(LCD_HEART_ON);
+        Symbol_Map(LCD_HEART_OFF);
 
         /* Set the variable to FALSE */
         heart_symbol_toggle = FALSE;

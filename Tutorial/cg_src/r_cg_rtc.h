@@ -107,9 +107,9 @@ Macro definitions
 #define _07_RTC_COUNTER_MONTH         (0x07U)
 #define _16_RTC_COUNTER_DAY           (0x16U)
 #define _02_RTC_COUNTER_WEEK          (0x02U)
-#define _12_RTC_COUNTER_HOUR          (0x12U)
-#define _30_RTC_COUNTER_MIN           (0x30U)
-#define _00_RTC_COUNTER_SEC           (0x00U)
+#define _12_RTC_COUNTER_HOUR          (0x23U)
+#define _30_RTC_COUNTER_MIN           (0x17U)
+#define _00_RTC_COUNTER_SEC           (0x19U)
 #define RTC_WAITTIME                  (320U)
 
 /***********************************************************************************************************************
